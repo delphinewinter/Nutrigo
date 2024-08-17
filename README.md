@@ -108,7 +108,7 @@ Nutrigo is a life saver! I just started a company, so there's no time for cookin
 
 Address: 623 King St W., 2nd Floor, Toronto, ON M5V 0S7
 Phone: 415-201-6370
-Email: hello@TastyMeals.com
+Email: hello@Nutrigo.com
 
 Social profiles: instagram, facebook, twitter [links to them not available yet]
 
