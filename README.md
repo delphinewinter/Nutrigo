@@ -1,4 +1,4 @@
-# Nutrigo
+# Nutrigo https://nutrigoai.netlify.app/
 
 ## About Nutrigo
 
