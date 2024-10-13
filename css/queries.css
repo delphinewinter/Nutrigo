@@ -116,6 +116,12 @@
     margin-top: 1.2rem;
   }
 
+  /* MOBILLE NAVIGATION */
+  .btn-mobile-nav {
+    display: block;
+    z-index: 9999;
+  }
+
   .main-nav {
     background-color: rgba(255, 255, 255, 0.97);
     position: absolute;
@@ -129,17 +135,10 @@
     align-items: center;
     justify-content: center;
     transition: all 0.5s ease-in-out;
-
-    /* hide navigation */
-    /* allows no transition at all */
-    /* display: none; */
-
     /* hide it visually */
     opacity: 0;
-
     /* make it unaccessible to keyboard and mouse */
     pointer-events: none;
-
     /* hide it from screen readers */
     visibility: hidden;
   }
@@ -148,7 +147,6 @@
     opacity: 1;
     pointer-events: auto;
     visibility: visible;
-
     transform: translateX(0);
   }
 
